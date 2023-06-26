@@ -1,0 +1,30 @@
+body
+{
+  background-color: black;
+}
+.container
+{
+  margin:auto;
+  width:70%;
+  text-align: center;
+}
+h1
+{
+  font-size: 5rem;
+  padding: 4rem;
+  font-family: 'Pacifico', cursive;
+  color: #E7CEA6;
+}
+.dice
+{
+  color: white;
+}
+footer
+{
+  text-align: center;
+  color: #606C5D;
+  background-color: #2B2730;
+  margin-top: 9rem;
+  padding-bottom: 3rem;;
+  font-family: 'Pacifico', cursive;
+}
